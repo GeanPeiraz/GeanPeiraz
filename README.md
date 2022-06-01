@@ -1,4 +1,4 @@
-# **Olá, me chamo Gean, sou desenvolvedor front-end **
+# **Olá, me chamo Gean, sou desenvolvedor BACK- END **
 
 ![GeanPeiraz GitHub stats](https://github-readme-stats.vercel.app/api?username=GeanPeiraz&show_icons=true&theme=radical)
 # 
