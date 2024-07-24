@@ -37,15 +37,13 @@
   </a>
   <a href="https://www.linkedin.com/in/gean-pereira-2597481a4/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-
+  </a>
+  
   <p align="center">
  <img alt="GeanPeiraz Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeanPeiraz&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-  </p>
-  <p align="center">
 <img alt="GeanPeiraz Github Stats" src="https://github-readme-stats.vercel.app/api?username=GeanPeiraz&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
   </p>
-</p>
-  </a>
+  
 </div>
 
 ###
