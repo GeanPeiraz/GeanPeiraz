@@ -40,7 +40,10 @@
 
   <p align="center">
  <img alt="GeanPeiraz Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeanPeiraz&langs_count=6&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
-  <img alt="GeanPeiraz Github Stats" src="https://github-readme-stats.vercel.app/api?username=GeanPeiraz&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+  </p>
+  <p align="center">
+<img alt="GeanPeiraz Github Stats" src="https://github-readme-stats.vercel.app/api?username=GeanPeiraz&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+  </p>
 </p>
   </a>
 </div>
