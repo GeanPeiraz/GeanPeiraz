@@ -5,7 +5,7 @@
 
 ###
 
-<img align="right" height="150" src="https://static.wikia.nocookie.net/7dc676d9-f4da-4905-81ce-63ddb9a4c093/scale-to-width/755"  />
+<img align="right" height="100" src="https://static.wikia.nocookie.net/7dc676d9-f4da-4905-81ce-63ddb9a4c093/scale-to-width/755"  />
 
 ###
 
