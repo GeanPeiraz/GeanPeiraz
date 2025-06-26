@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.tenor.com/images/30169e4a670daf12443df7d2dd140176/tenor.gif" height="32" />, I'm Gean Pereira</h1>
-<h3 align="center">I am a native of Brazil and I'm part of this community that studies data science along with back-end integrations.</h3>
+<h3 align="center">I am a native of Brazil and I am part of this community that studies computer science along with back-end integrations based on data security.</h3>
 
 <h3 align="center">📚I am always looking for new technologies and business models in the sector, as I am migrating areas it is essential for me to always stay up to date.</h3>
 
