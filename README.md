@@ -6,6 +6,7 @@
 ###
 
 <div align="center">
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=6547239" style='border:none;'></iframe>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
