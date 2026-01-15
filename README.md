@@ -4,7 +4,8 @@
 <h3 align="center">📚I am always looking for new technologies and business models in the sector, as I am migrating areas it is essential for me to always stay up to date.</h3>
 
 ###
-<div align="center"><img src="https://tryhackme-badges.s3.amazonaws.com/gean2014brasil.png" alt="Your Image Badge" </div>
+<div align="center"><img [src="https://tryhackme-badges.s3.amazonaws.com/gean2014brasil.png"](https://img.shields.io/badge/%3Ciframe%20src%3D%22https%3A%2F%2Ftryhackme.com%2Fapi%2Fv2%2Fbadges%2Fpublic-profile%3FuserPublicId%3D6547239%22%20style%3D'border%3Anone%3B'%3E%3C%2Fiframe%3E
+) alt="Your Image Badge" </div>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
